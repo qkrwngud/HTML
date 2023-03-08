@@ -1,0 +1,13 @@
+.container {
+
+width: 200px;
+border: 1px solid red;
+
+}
+
+.box {
+
+width: 300px;
+border: 3px dashed blue;
+
+}
